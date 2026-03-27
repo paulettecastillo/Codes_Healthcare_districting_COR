@@ -1,1 +1,1 @@
-# Codes_Helthcare_districting_COR
+# Codes_Healthcare_districting_COR
